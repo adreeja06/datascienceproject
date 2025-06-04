@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adree/Desktop/MLOps%20Krish%20Naik/datascienceproject/mlruns/0/19e4f4db9c3b41fa993db5afb1abe00d/artifacts
+end_time: 1749055569881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19e4f4db9c3b41fa993db5afb1abe00d
+run_name: rogue-skunk-445
+run_uuid: 19e4f4db9c3b41fa993db5afb1abe00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749055554883
+status: 3
+tags: []
+user_id: adree
